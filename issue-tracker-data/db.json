@@ -1,3 +1,48 @@
 {
-    "token": "213jic38dssi129am"
+    "token": "213jic38dssi129am",
+    "users": [
+        {
+            "name" : {
+                "first" : "Doug",
+                "last" : "Smith"
+            }
+        },
+        {
+            "name" : {
+                "first" : "Dom",
+                "last" : "Real"
+            }
+        },
+          {
+            "name" : {
+                "first" : "Ben",
+                "last" : "Do"
+            }
+        },
+          {
+            "name" : {
+                "first" : "Nang",
+                "last" : "Tran"
+            }
+        },
+          {
+            "name" : {
+                "first" : "Gaurav",
+                "last" : "Khazanchi"
+            }
+        },
+          {
+            "name" : {
+                "first" : "Dejan",
+                "last" : "Cecar"
+            }
+        },
+          {
+            "name" : {
+                "first" : "Chris",
+                "last" : "Coombs"
+            }
+        }
+    ]
+
 }
